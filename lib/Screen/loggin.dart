@@ -136,13 +136,13 @@ class _LogginState extends State<Loggin> {
                   
                 }, child: Text('Signin',style: TextStyle(
                     color: Colors.blue,
-                  fontSize: 18,
+                  fontSize: 19,
                   fontWeight: FontWeight.bold,
                   decoration: TextDecoration.underline
                 ),),
              )],
              
-        
+    
       
       ),
       )
