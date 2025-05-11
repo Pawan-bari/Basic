@@ -16,7 +16,7 @@ A basic Flutter project demonstrating a simple login and signup interface using 
 - Material Design
 
 ## 📷 ScreenShots
-## Login in                                                                                               ## Signup
+## Login in                                                              &                                  Signup
 ![Screenshot_1746975811](https://github.com/user-attachments/assets/f546161e-7759-431b-aedb-6edaffe0db57) ![Screenshot_1746975815](https://github.com/user-attachments/assets/88a44dae-834b-47c6-ae75-ceb38bc505ef)
 
 
