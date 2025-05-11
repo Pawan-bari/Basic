@@ -1,6 +1,25 @@
-# basicui
+# Flutter Login & Signup UI
 
-A new Flutter project.
+A basic Flutter project demonstrating a simple login and signup interface using `StatefulWidget`, `Scaffold`, `TextField`, `TextButton`, and navigation via named routes. This is a front-end only project, with no backend integration.
+
+## ✨ Features
+
+- Simple and clean UI for Login and Signup screens
+- Navigation using named routes
+- Built entirely with core Flutter widgets
+- No backend or form validation (for learning purposes)
+
+## 🧰 Technologies Used
+
+- Flutter SDK (3.x+)
+- Dart
+- Material Design
+
+## 📷 ScreenShots
+## Login in                                                                                               ## Signup
+![Screenshot_1746975811](https://github.com/user-attachments/assets/f546161e-7759-431b-aedb-6edaffe0db57) ![Screenshot_1746975815](https://github.com/user-attachments/assets/88a44dae-834b-47c6-ae75-ceb38bc505ef)
+
+
 
 ## Getting Started
 
